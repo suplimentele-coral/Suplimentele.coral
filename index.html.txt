@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sief Aboras - Distribuitor de Suplimente și Entuziast al Fitnessului</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color:
+            max-width: 1200px;
+        }
+        section {
+            background-color: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        section:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+        }
+        .bio {
+            background-color: #ffffff;
+        }
+        .special-section {
+            background-color: #e0f7fa;
+            text-align: center;
+        }
+        .special-section h2 {
+            color: #00796b;
+            margin: 0;
+        }
+        .special-section p {
+            font-size: 1.2em;
+            margin: 10px 0;
+        }
+        .special-section a {
+            display: inline-block;
+            background-color: #00796b;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+        .special-section a:hover {
+            background-color: #004d40;
+        }
+        .contact {
+            background-color: #ffffff;
+        }
+        .contact p {
+            margin: 10px 0;
+        }
+        .social-links a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #4CAF50;
+            transition: color 0.3s ease;
+        }
+        .social-links a:hover {
+            color: #333;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        @media (max-width: 768px) {
+            .container {
+                width: 90%;
+            }
+            header, footer {
+                padding: 15px;
+            }
+            .special-section a {
+                padding: 8px 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Sief Aboras</h1>
+        <h2>Distribuitor Independent de Suplimente și Entuziast al Fitnessului</h2>
+    </header>
+    <div class="container">
+        <section class="bio">
+            <h2>Biografie</h2>
+            <p>Bună, mă numesc Sief Aboras și sunt pasionat de sănătate, wellness și de a ajuta pe alții să-și atingă starea optimă de bine. Ca distribuitor independent în industria MLM, mă specializez în promovarea suplimentelor de înaltă calitate care sunt concepute pentru a îmbunătăți sănătatea și vitalitatea.</p>
+            <p>Călătoria mea în sectorul sănătății și wellness-ului este profund înrădăcinată în dragostea mea pentru fitness și sport. Fiind un entuziast dedicat al sălii de sport și un participant avid în box și kickboxing, înțeleg importanța unei nutriții adecvate și a suplimentării în atingerea performanței fizice maxime.</p>
+            <p>Cu ani de experiență, m-am angajat să descopăr cele mai bune produse și practici care pot face o diferență reală în viețile oamenilor. Indiferent dacă dorești să-ți crești energia, să-ți susții sistemul imunitar sau să-ți atingi obiectivele de fitness, am soluțiile potrivite pentru tine.</p>
+            <p>Alătură-te mie în această călătorie incitantă către o sănătate mai bună și libertate financiară. Împreună, putem construi un viitor mai sănătos în timp ce creăm oportunități de succes și creștere. Hai să ne conectăm și să explorăm cum gama mea de suplimente îți poate beneficia pe tine și pe cei dragi.</p>
+        </section>
+        <section class="special-section">
+            <h2>Descoperă Oportunitățile Exclusiviste!</h2>
+            <p><strong>Transformă-ți viața și îmbunătățește-ți sănătatea cu suplimente de top!</strong></p>
+            <p>Accesează oferta noastră exclusivă și vezi cum poți beneficia de produse premium:</p>
+            <a href="https://coral.club/7946482.html" target="_blank">Vizitează acum oferta</a>
+        </section>
+        <section class="contact">
+            <h2>Contactează-mă</h2>
+            <p>Email: <a href="mailto:suplimentelecoral@gmail.com">suplimentelecoral@gmail.com</a></p>
+            <p>Telefon: <a href="tel:+40724707396">+40 724 707 396</a></p>
+            <div class="social-links">
+                <a href="https://youtube.com/@user-uq1lt2fq7j?si=oSWwp44JkxTfOXLT" target="_blank">YouTube</a>
+                <a href="https://www.instagram.com/suplimentele_coral?igsh=MTZmeGR1dzFseHE2ZA%3D%3D&utm_source=qr" target="_blank">Instagram</a>
+                <a href="https://www.linkedin.com/in/siefaboras" target="_blank">LinkedIn</a>
+            </div>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Sief Aboras. Toate drepturile rezervate.</p>
+    </footer>
+</body>
+</html>
